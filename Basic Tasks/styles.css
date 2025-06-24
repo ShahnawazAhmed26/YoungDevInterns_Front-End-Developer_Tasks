@@ -1,0 +1,244 @@
+/* === Global Effects === */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #0e0e0e;
+  color: #f0f0f0;
+  text-align: center;
+}
+
+/* === Header Animation === */
+header h1 {
+  text-align: center;
+  font-size: 2.8rem;
+  color: crimson;
+  animation: glowTitle 2s ease-in-out infinite alternate;
+}
+
+@keyframes glowTitle {
+  from {
+    text-shadow: 0 0 5px crimson, 0 0 10px red;
+  }
+  to {
+    text-shadow: 0 0 20px crimson, 0 0 30px red;
+  }
+}
+
+/* === Hero Icon Spin on Hover === */
+.hero-icon {
+  display: block;
+  margin: 20px auto;
+  width: 120px;
+  transition: transform 0.8s ease;
+}
+
+
+.hero-icon:hover {
+  transform: scale(1.2); /* Bas yahi use hota hai zoom effect ke liye */
+}
+
+
+main {
+  padding: 30px;
+}
+
+/* === Abilities Container Animation === */
+.abilities {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 30px;
+  animation: fadeInUp 1.5s ease;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* === Each Ability Card === */
+.ability {
+  background-color: #1a1a1a;
+  border: 2px solid crimson;
+  border-radius: 10px;
+  padding: 20px;
+  width: 220px;
+  text-align: center;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.ability:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px crimson;
+}
+
+/* === Ability Icon Glow Effect === */
+.ability img {
+  width: 64px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  animation: pulseIcon 2s infinite ease-in-out;
+}
+
+@keyframes pulseIcon {
+  0% {
+    box-shadow: 0 0 5px crimson;
+  }
+  50% {
+    box-shadow: 0 0 20px crimson;
+  }
+  100% {
+    box-shadow: 0 0 5px crimson;
+  }
+}
+
+/* === Ability Titles === */
+.ability h3 {
+  color: #ff3b3b;
+  margin-bottom: 8px;
+  text-shadow: 0 0 5px #ff3b3b;
+}
+/* === Center the content nicely === */
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  gap: 20px;
+  padding: 0 20px;
+  text-align: center;
+}
+
+/* === Header ka icon properly centered below title === */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.hero-icon {
+  display: block;
+  margin: 10px auto 0;
+  width: 120px;
+  transition: transform 0.8s ease;
+}
+
+/* === Arcana paragraph styling === */
+main p {
+  max-width: 700px;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #ccc;
+}
+/* Dropdown */
+.dropdown {
+  margin-top: 30px;
+  text-align: center;
+}
+.dropdown button {
+  padding: 10px 20px;
+  background-color: crimson;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.dropdown-content {
+  display: none;
+  margin-top: 10px;
+  background-color: #222;
+  padding: 15px;
+  border-radius: 8px;
+  color: white;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Modal Popup */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0,0,0,0.8);
+}
+.modal-content {
+  background-color: #111;
+  margin: 15% auto;
+  padding: 20px;
+  border: 2px solid crimson;
+  width: 80%;
+  max-width: 500px;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+.modal-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: crimson;
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.close {
+  float: right;
+  font-size: 24px;
+  cursor: pointer;
+  color: white;
+}
+
+/* === Juggernaut big image spacing === */
+img {
+  border: 2px solid red;
+  border-radius: 10px;
+  margin-top: 10px;
+  transition: transform 0.4s ease;
+}
+
+main img[alt*="Juggernaut from Dota 2"]:hover {
+  transform: scale(1.03);
+}
+
+/* === Footer Flicker === */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: #aaa;
+  animation: flicker 3s infinite;
+}
+
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  45% { opacity: 0.6; }
+  55% { opacity: 0.8; }
+  75% { opacity: 0.5; }
+}
+#openModal {
+  margin-top: 30px;
+  padding: 12px 25px;
+  font-size: 16px;
+  background-color: #f85d25;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#openModal:hover {
+  background-color: #ff3c00;
+}
