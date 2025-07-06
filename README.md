@@ -22,7 +22,7 @@ This repository contains all the tasks completed during my front-end internship 
 
 ---
 
-### 🎨 `task 2/` - CSS Styling
+### 🎨 `Task 2/` - CSS Styling
 **Objective:** Apply basic CSS to enhance layout  
 **Deliverables:**
 - Styled header, footer, text  
@@ -33,7 +33,7 @@ This repository contains all the tasks completed during my front-end internship 
 
 ---
 
-### 📱 `Task 3/` - Responsive Design
+### 📱 `Task 3/` - Responsive Design 
 **Objective:** Make page mobile-friendly  
 **Deliverables:**
 - Media queries for responsiveness  
