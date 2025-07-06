@@ -29,7 +29,7 @@ This repository contains all the tasks completed during my front-end internship 
 - Fonts, colors, spacing  
 - Image borders & hover animation  
 
-🔗 [HTML File](./task%202/task2.html) | [CSS File](./task%202/task2.css)
+🔗 [HTML File](./Task%202/task2.html) | [CSS File](./task%202/task2.css)
 
 ---
 
@@ -49,14 +49,13 @@ This repository contains all the tasks completed during my front-end internship 
 All tasks are uploaded on **LinkedIn** and **Facebook**, tagging the official **YoungDevInterns** page for visibility:
 
 - 🔗 Facebook Post: *[Add your Facebook post link here]*  
-- 🔗 LinkedIn Post: *[Add your LinkedIn post link here]*
 
 ---
 
 ## 📸 Sneak Peek
 
 ![Juggernaut Top Icon](./Task%201/Bladeform_Origins_Juggernaut_icon.webp)  
-![Juggernaut Arcana Portrait](./Task%201/Screenshot%202025-06-24%20200449.png)
+![Juggernaut Arcana Portrait](./Task%201/juggernaut_arcana_hero_portrait.png)
 
 ---
 
