@@ -73,7 +73,7 @@ All tasks are uploaded on **LinkedIn** and **Facebook**, tagging the official **
 - HTML5  
 - CSS3  
 - Visual Studio Code  
-- Git & GitHub  
+- GitHub  
 
 ---
 
