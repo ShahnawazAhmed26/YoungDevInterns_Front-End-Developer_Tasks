@@ -48,14 +48,13 @@ This repository contains all the tasks completed during my front-end internship 
 
 All tasks are uploaded on **LinkedIn** and **Facebook**, tagging the official **YoungDevInterns** page for visibility:
 
-- 🔗 Facebook Post: *[Add your Facebook post link here]*  
+- 🔗 Facebook Post:  
 
 ---
 
 ## 📸 Sneak Peek
 
-![Juggernaut Top Icon](./Task%201/Bladeform_Origins_Juggernaut_icon.webp)  
-![Juggernaut Arcana Portrait](./Task%201/juggernaut_arcana_hero_portrait.png)
+![Overview](overview.png)  
 
 ---
 
