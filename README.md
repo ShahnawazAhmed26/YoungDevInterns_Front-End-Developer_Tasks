@@ -29,7 +29,7 @@ This repository contains all the tasks completed during my front-end internship 
 - Fonts, colors, spacing  
 - Image borders & hover animation  
 
-🔗 [HTML File](./Task%202/task2.html) | [CSS File](./task%202/task2.css)
+🔗 [HTML File](./Task%202/task2.html) | [CSS File](./Task%202/task2.css)
 
 ---
 
