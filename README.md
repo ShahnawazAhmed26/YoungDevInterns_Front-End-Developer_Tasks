@@ -1,84 +1,85 @@
 # 💻 YoungDevInterns - Front-End Developer Tasks
 
-Welcome to my official internship repo for **YoungDevInterns 🚀**. This repository contains all the tasks completed during my front-end internship journey, covering:
+Welcome to my official internship repo for **YoungDevInterns 🚀**.  
+This repository contains all the tasks completed during my front-end internship journey, covering:
 
-- ✅ HTML Structure
-- ✅ CSS Styling
-- ✅ Responsive Design
+- ✅ HTML Structure  
+- ✅ CSS Styling  
+- ✅ Responsive Design  
 
 ---
 
 ## 📁 Task Breakdown
 
-### 📌 Task 1 - Basic HTML Page
-**Objective:** Understand HTML structure  
+### 📌 `Task 1/` - Basic HTML Page
+**Objective:** Understand basic HTML structure  
 **Deliverables:**
-- Page with header, main, footer
-- 2 Paragraphs + 2 Images
-- Clean semantic HTML
+- Page with header, main, footer  
+- 2 Paragraphs + 2 Images  
+- Clean semantic HTML  
 
-🔗 [View HTML File](./task1.html)
+🔗 [View HTML File](./Task%201/task1.html)
 
 ---
 
-### 🎨 Task 2 - CSS Styling
-**Objective:** Apply basic CSS  
+### 🎨 `task 2/` - CSS Styling
+**Objective:** Apply basic CSS to enhance layout  
 **Deliverables:**
-- Styled header/footer
-- Font, color, spacing
-- Image hover effect
+- Styled header, footer, text  
+- Fonts, colors, spacing  
+- Image borders & hover animation  
 
-🔗 [HTML + CSS](./task2.html) | [CSS File](./task2.css)
+🔗 [HTML File](./task%202/task2.html) | [CSS File](./task%202/task2.css)
 
 ---
 
-### 📱 Task 3 - Responsive Design
+### 📱 `Task 3/` - Responsive Design
 **Objective:** Make page mobile-friendly  
 **Deliverables:**
-- Used `@media` queries
-- Images and fonts scale correctly
-- No layout breaking on phones
+- Media queries for responsiveness  
+- Flexible layout for phones  
+- Images and fonts scale correctly  
 
-🔗 [HTML + Responsive CSS](./task3.html) | [CSS File](./task3.css)
+🔗 [HTML File](./Task%203/task3.html) | [CSS File](./Task%203/task3.css)
 
 ---
 
 ## 🌐 Social Uploads
 
-All tasks are uploaded on **LinkedIn & Facebook**, tagging the company page of **YoungDevInterns** for visibility.
+All tasks are uploaded on **LinkedIn** and **Facebook**, tagging the official **YoungDevInterns** page for visibility:
 
-- 🔗 Facebook Post: *[Add your post link here]*
+- 🔗 Facebook Post: *[Add your Facebook post link here]*  
+- 🔗 LinkedIn Post: *[Add your LinkedIn post link here]*
 
 ---
 
 ## 📸 Sneak Peek
 
-![Juggernaut Top Icon](Bladeform_Origins_Juggernaut_icon.webp)
-![Juggernaut Arcana Portrait](juggernaut_arcana_portrait.png)
+![Juggernaut Top Icon](./Task%201/Bladeform_Origins_Juggernaut_icon.webp)  
+![Juggernaut Arcana Portrait](./Task%201/Screenshot%202025-06-24%20200449.png)
 
 ---
 
 ## 🧠 Learnings So Far
 
-- Semantic HTML
-- CSS Fundamentals
-- Responsive Layouts
-- Image handling & scaling
-- GitHub repo management
+- Semantic HTML structure  
+- CSS layout, spacing, and color theory  
+- Responsive design using `@media` queries  
+- Image handling and scaling  
+- GitHub repo management + clean folder structure  
 
 ---
 
 ## 🛠 Tech Stack
 
-- HTML5
-- CSS3
-- Visual Studio Code
-- Git & GitHub
+- HTML5  
+- CSS3  
+- Visual Studio Code  
+- Git & GitHub  
 
 ---
 
 ## 🤝 Connect With Me
-
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shahnawaz-khan-946486335/)
 
