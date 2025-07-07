@@ -48,7 +48,7 @@ This repository contains all the tasks completed during my front-end internship 
 
 All tasks are uploaded on **LinkedIn** and **Facebook**, tagging the official **YoungDevInterns** page for visibility:
 
-- 🔗 Facebook Post:  https://m.facebook.com/story.php?story_fbid=pfbid02DN7qjEoGFsZysk1M1GYLpRumPW4xWxFVvgbaxxoWntC6oxTKwbhjcBPz8vmuMR1fl&id=785675622&sfnsn=scwspwa&mibextid=RUbZ1f
+[🔗 Facebook Post](https://www.facebook.com/share/p/16do6QuR7v/)
 
 ---
 
